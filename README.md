@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
